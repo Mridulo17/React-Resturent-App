@@ -1,0 +1,32 @@
+{
+    "resturant": [
+      { 
+        "id": 1, 
+        "name": "koyla", 
+        "address": "dhaka",
+        "ratting": "4.5",
+        "email": "koyla@gmail.com" 
+      },
+      { 
+        "id": 2, 
+        "name": "syltan", 
+        "address": "dhanmondo",
+        "ratting": "5.5",
+        "email": "sultan@gmail.com" 
+      },
+      { 
+        "id": 3, 
+        "name": "caferio", 
+        "address": "uttara",
+        "ratting": "4.5",
+        "email": "caferio@gmail.com" 
+      },
+      { 
+        "id": 4, 
+        "name": "pizzahat", 
+        "address": "gulshan",
+        "ratting": "6.5",
+        "email": "pizzahat@gmail.com" 
+      }
+    ]
+  }
